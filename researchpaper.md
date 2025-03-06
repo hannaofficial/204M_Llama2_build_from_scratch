@@ -1,7 +1,7 @@
-[LLaMA 1 research paper](https://arxiv.org/pdf/2302.13971)
-[Chinchilla scaling laws](https://arxiv.org/pdf/2203.15556)
-[Swiglu paper](https://arxiv.org/pdf/2002.05202)
-[Rope implementaion](https://arxiv.org/abs/2104.09864)
+[LLaMA 1 research paper](https://arxiv.org/pdf/2302.13971) </br>
+[Chinchilla scaling laws](https://arxiv.org/pdf/2203.15556) </br>
+[Swiglu paper ](https://arxiv.org/pdf/2002.05202) </br>
+[Rope implementaion](https://arxiv.org/abs/2104.09864) </br>
 
 [LLaMA 2 (18 Jul 2023) research paper](https://arxiv.org/pdf/2307.09288)
 
