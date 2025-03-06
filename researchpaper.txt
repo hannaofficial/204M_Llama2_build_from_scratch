@@ -1,9 +1,0 @@
-llama 1
-https://arxiv.org/pdf/2302.13971
-
-llama 2
-https://arxiv.org/pdf/2307.09288
-
-llama 3 (latest foundation model  nov 2024 release)
-
-https://arxiv.org/pdf/2407.21783
